@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-I'm the master of Cookies 🍪 and Software engineer from the country havingthelongestwords in the world (Germany).
+I'm the master of Cookies 🍪 and a Software engineer from the country havingthelongestwords in the world (Germany).
 Mostly working with PHP, Python and js/html. I'm currently learning C++.
 
 ### Here is a picture of my development setup
