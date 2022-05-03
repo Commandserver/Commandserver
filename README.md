@@ -47,6 +47,7 @@ Mostly working with PHP, Python and js/html and currently learning C++.
   <img src="https://img.shields.io/badge/XML-e76a3f?style=for-the-badge" alt="XML">
   <img src="https://img.shields.io/badge/SVG-82ec71?style=for-the-badge" alt="SVG">
   <img src="https://img.shields.io/badge/JSON-73a816?style=for-the-badge" alt="JSON">
+  <img src="https://img.shields.io/badge/Java%20Swing-e8c67d?style=for-the-badge" alt="Java Swing">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
   <img src="https://img.shields.io/badge/Systemctl-ff0066?style=for-the-badge&logoColor=white" alt="Systemctl">
