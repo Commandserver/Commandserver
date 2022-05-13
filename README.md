@@ -73,4 +73,4 @@ Mostly working with PHP, Python and js/html and currently learning C++.
 
 ## 📈 Drip Statics
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Commandserver&show_icons=true&theme=vue" alt="Stats"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commandserver&layout=compact&theme=vue" alt="Most used languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commandserver&theme=vue" alt="Most used languages"/>
