@@ -53,23 +53,24 @@ Mostly working with PHP, Python and js/html and currently learning C++.
   <img src="https://img.shields.io/badge/Systemctl-ff0066?style=for-the-badge&logoColor=white" alt="Systemctl">
   <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp">
 
-## 📈 My GitHub Statics
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Commandserver&show_icons=true&theme=gruvbox" alt="Stats">
-</div>
 
 ## ⚒️ Workspace
 
 - **Midi Tower**: (AMD Ryzen 5, 32GB memory)
 - **Monitor**: 2x 4K 27 inch (LG 27UL650-W)
-- **OS**: Ubuntu 21.10 / Windows 10
+- **OS**: Ubuntu / Windows / Fedora
 - **Browser**: Mozilla Firefox, Chromium, Google Chrome, Tor
 - **Code Editor**: Jetbrains IDEs, gedit, Atom
 - **Stereo Music**: Nubert nuPro X-3000 RC
 
 <br>
 
-### Here is a picture of my development setup
+<h3 align="center">Here is a picture of my development setup</h3>
 
-<img src="https://user-images.githubusercontent.com/44061123/136676235-6f58c0ce-cf07-457c-be52-3af3aec8310d.jpg">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44061123/136676235-6f58c0ce-cf07-457c-be52-3af3aec8310d.jpg" width="80%" align="middle">
+</p>
+
+## 📈 Drip Statics
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Commandserver&show_icons=true&theme=vue" alt="Stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commandserver&layout=compact&theme=vue" alt="Most used languages"/>
