@@ -13,7 +13,7 @@ Mostly working with PHP, Python, js/html and C++.
 
 ### Tech Stack
 
-Languages 👨‍💻<br>
+<ins>Languages 👨‍💻</ins><br>
 [<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />](https://www.php.net/)
 [<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />](http://www.cplusplus.com/)
@@ -23,23 +23,23 @@ Languages 👨‍💻<br>
 [<img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" alt="CSS" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />](https://www.lua.org/)
 
-Frameworks<br>
+<ins>Frameworks</ins><br>
 [<img src="https://img.shields.io/badge/Laravel-f9322c?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />](https://laravel.com/)
 [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />](https://getbootstrap.com/)
 [<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery" />](https://jquery.com/)
 [<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" />](https://numpy.org/)
 
-Databases<br>
+<ins>Databases</ins><br>
 [<img src="https://img.shields.io/badge/MariaDB-4e629a?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />](https://mariadb.org/)
 [<img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />](https://www.mysql.com/)
 [<img src="https://img.shields.io/badge/SQLite-044a64?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />](https://www.sqlite.org/)
 
-VCS<br>
+<ins>VCS</ins><br>
 [<img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />](https://gitlab.com/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />](https://github.com/)
 [<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />](https://git-scm.com/)
 
-Other Skills<br>
+<ins>Other Skills</ins><br>
 [<img src="https://img.shields.io/badge/XML-100000?style=flat-square" alt="XML" />]()
 [<img src="https://img.shields.io/badge/SVG-100000?style=flat-square&logo=svg&logoColor=white" alt="SVG" />]()
 [<img src="https://img.shields.io/badge/JSON-100000?style=flat-square&logo=json&logoColor=white" alt="JSON" />](https://www.json.org/)
