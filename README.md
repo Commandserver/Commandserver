@@ -11,9 +11,9 @@ Developer from the country havingthelongestwords in the world (Germany).
 
 Mostly working with PHP, Python, js/html and C++.
 
-### Tech Stack
+### Tech Stack 👨‍💻
 
-<ins>Languages 👨‍💻</ins><br>
+<ins>Languages</ins><br>
 [<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />](https://www.php.net/)
 [<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />](http://www.cplusplus.com/)
@@ -64,6 +64,6 @@ Mostly working with PHP, Python, js/html and C++.
   <img src="https://user-images.githubusercontent.com/44061123/136676235-6f58c0ce-cf07-457c-be52-3af3aec8310d.jpg" width="80%" align="middle">
 </p>
 
-### Drip Statistics 📈
+### Drip Stats 📈
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Commandserver&show_icons=true&theme=vue" alt="Stats"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commandserver&theme=vue" alt="Most used languages"/>
