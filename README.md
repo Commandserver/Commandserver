@@ -1,61 +1,56 @@
-<h1>
+<h2>
     Hey there, 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+    👋
     I'm Phil
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h1>
+</h2>
 
-<h4>Known as the master of Cookies 🍪</h4>
+😄 Pronouns: he/him
 
-Software engineer from the country havingthelongestwords in the world (Germany).
+Developer from the country havingthelongestwords in the world (Germany).
 
-Mostly working with PHP, Python and js/html and currently learning C++.
+Mostly working with PHP, Python, js/html and C++.
 
 ### Tech Stack
 
-- Languages
+Languages 👨‍💻<br>
+[<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />](https://www.php.net/)
+[<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />](https://www.python.org/)
+[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />](http://www.cplusplus.com/)
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />](https://java.com/)
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Javascript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" alt="HTML" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" alt="CSS" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />](https://www.lua.org/)
 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+Frameworks<br>
+[<img src="https://img.shields.io/badge/Laravel-f9322c?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />](https://laravel.com/)
+[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />](https://getbootstrap.com/)
+[<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery" />](https://jquery.com/)
+[<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" />](https://numpy.org/)
 
-- Frameworks
+Databases<br>
+[<img src="https://img.shields.io/badge/MariaDB-4e629a?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />](https://mariadb.org/)
+[<img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />](https://www.mysql.com/)
+[<img src="https://img.shields.io/badge/SQLite-044a64?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />](https://www.sqlite.org/)
 
-  <img src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+VCS<br>
+[<img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />](https://gitlab.com/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />](https://github.com/)
+[<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />](https://git-scm.com/)
 
-- Databases
-
-  <img src="https://img.shields.io/badge/MariaDB-4e629a?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-
-- VCS
-
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
-- Other Skills
-
-  <img src="https://img.shields.io/badge/XML-100000?style=for-the-badge" alt="XML">
-  <img src="https://img.shields.io/badge/SVG-100000?style=for-the-badge&logo=svg&logoColor=white" alt="SVG">
-  <img src="https://img.shields.io/badge/JSON-100000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-  <img src="https://img.shields.io/badge/Java%20Swing-100000?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing">
-  <img src="https://img.shields.io/badge/Markdown-100000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/Shell_Script-100000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-  <img src="https://img.shields.io/badge/Systemctl-100000?style=for-the-badge" alt="Systemctl">
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp">
+Other Skills<br>
+[<img src="https://img.shields.io/badge/XML-100000?style=flat-square" alt="XML" />]()
+[<img src="https://img.shields.io/badge/SVG-100000?style=flat-square&logo=svg&logoColor=white" alt="SVG" />]()
+[<img src="https://img.shields.io/badge/JSON-100000?style=flat-square&logo=json&logoColor=white" alt="JSON" />](https://www.json.org/)
+[<img src="https://img.shields.io/badge/Java%20Swing-100000?style=flat-square&logo=java&logoColor=white" alt="Java Swing" />]()
+[<img src="https://img.shields.io/badge/Markdown-100000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />](https://www.markdownguide.org/basic-syntax/)
+[<img src="https://img.shields.io/badge/Shell_Script-100000?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" />]()
+[<img src="https://img.shields.io/badge/Systemd-100000?style=flat-square" alt="Systemd" />](https://www.freedesktop.org/wiki/Software/systemd/)
+[<img src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=white" alt="Gimp" />](https://www.gimp.org/)
 
 
-## ⚒️ Workspace
+### Workspace ⚒️
 
 - **Midi Tower**: (AMD Ryzen 5, 32GB memory)
 - **Monitor**: 2x 4K 27 inch (LG 27UL650-W)
@@ -64,14 +59,11 @@ Mostly working with PHP, Python and js/html and currently learning C++.
 - **Code Editor**: Jetbrains IDEs, gedit, Atom
 - **Stereo Music**: Nubert nuPro X-3000 RC
 
-<br>
-
 <h3 align="center">Here is a picture of my development setup</h3>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44061123/136676235-6f58c0ce-cf07-457c-be52-3af3aec8310d.jpg" width="80%" align="middle">
 </p>
 
-## 📈 Drip Statistics
+### Drip Statistics 📈
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Commandserver&show_icons=true&theme=vue" alt="Stats"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commandserver&theme=vue" alt="Most used languages"/>
