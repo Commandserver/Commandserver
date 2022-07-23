@@ -5,8 +5,6 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
-😄 Pronouns: he/him
-
 Developer from the country havingthelongestwords in the world (Germany).
 
 Mostly working with PHP, Python, js/html and C++.
