@@ -7,3 +7,5 @@ Contributor of the [D++ library](https://github.com/brainboxdotcc/DPP) with hear
 I hope you enjoy it scrolling through my profile :D
 
 Cheers!
+
+I use Arch btw
